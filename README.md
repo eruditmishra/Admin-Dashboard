@@ -1,8 +1,8 @@
-#Admin Dashboard
+# Admin Dashboard
 
 Admin Dashboard Made using MERN Stack
 
-##Technologies Used
+## Technologies Used
 
 -> **React JS**
 
